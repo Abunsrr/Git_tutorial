@@ -1,0 +1,74 @@
+/* Styles for header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Styles for navigation */
+  nav {
+    background-color: #555;
+    padding: 10px;
+  }
+
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+  }
+  /* this is updated by me  */
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Styles for about section */
+  section#about {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  section#about img {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  /* Styles for contact section */
+  section#contact {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  /* Styles for registration form */
+  section#registration {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  section#registration form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  /* Styles for medicine section */
+  section#medicine {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  /* Styles for footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
